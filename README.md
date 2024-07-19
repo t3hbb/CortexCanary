@@ -1,7 +1,7 @@
 # CortexCanary
 Tooling related to discovery of Cortex XDR canary files to avoid 
 
-# Cortex XDR Ransomware Protection, Chocolate Teapots and Inflatable Dartboards
+### Cortex XDR Ransomware Protection, Chocolate Teapots and Inflatable Dartboards
 
 **Honeypot1.ps1** - Powershell script to search for canary files, determine the Cyvera\Ransomware folder location a display all of the files.
 
